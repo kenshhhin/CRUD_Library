@@ -1,0 +1,14 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = "postgresql://postgres:postgres@localhost:5432/web"
+}
+
+
+model notification_followers {
+  chatId    Int      @id @unique @default(autoincrement())
+  createdAt DateTime @default(now())
+}

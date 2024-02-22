@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5bacfa9-bc13-4788-b652-9e0260040056" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="false" />
+    <option name="myAllFileTypesSelected" value="true" />
+    <option name="mySelectedFileTypes">
+      <set />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2aMoiwyEKQmt9PjWIqeJOPTk81i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Node.js.CRUD_Library_Server.js.executor": "Run",
+    "Node.js.authorService.js.executor": "Run",
+    "Node.js.authorsController.js.executor": "Run",
+    "Node.js.botserver.js.executor": "Run",
+    "OpenAPI/Swagger Code Generator.swagger.json.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "20.10.0",
+    "javascript.nodejs.core.library.typings.version": "20.10.8",
+    "last_opened_file_path": "C:/Users/221772/Downloads/decentralized-linkedin-public-webclient-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\AstanaITUniversity\homework\github_university_assignments\WEB(BACKEND)\week4\bot\telegram\prisma" />
+      <recent name="C:\Users\user\Desktop\AstanaITUniversity\homework\github_university_assignments\WEB(BACKEND)\week4\app\controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\221772\Downloads\Telegram Desktop\week4\backend" />
+      <recent name="C:\Users\221772\Downloads\Telegram Desktop\week4\backend\app" />
+      <recent name="C:\Users\user\Desktop\AstanaITUniversity\homework\github_university_assignments\WEB(BACKEND)\week4\backend" />
+      <recent name="C:\Users\user\Desktop\AstanaITUniversity\homework\github_university_assignments\WEB(BACKEND)\week4\app\models" />
+      <recent name="C:\Users\user\Desktop\AstanaITUniversity\homework\github_university_assignments\WEB(BACKEND)\week4\app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="swagger.json" type="SwaggerCodegen" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="customTemplatesPath" value="" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="generateToPath" value="C:\Users\221772\gen" />
+      <option name="generationParameters">
+        <list />
+      </option>
+      <option name="generatorType" value="OPENAPI_GENERATOR_V6" />
+      <option name="jdkPath" value="C:\Program Files\JetBrains\WebStorm 2023.3.2\jbr\bin\java.exe" />
+      <option name="language" value="typescript-node" />
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="specificationPath" value="C:\Users\221772\Downloads\Telegram Desktop\week4\backend\swagger.json" />
+      <option name="workingDirectory" value="C:\Users\221772\Downloads\Telegram Desktop\week4\backend" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="OpenAPI/Swagger Code Generator.swagger.json" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5bacfa9-bc13-4788-b652-9e0260040056" name="Changes" comment="" />
+      <created>1704137940632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704137940632</updated>
+      <workItem from="1704137941797" duration="9299000" />
+      <workItem from="1704196496758" duration="38971000" />
+      <workItem from="1704278519177" duration="3712000" />
+      <workItem from="1704309621098" duration="195000" />
+      <workItem from="1704309868952" duration="19000" />
+      <workItem from="1705099470409" duration="1618000" />
+      <workItem from="1705313375195" duration="394000" />
+      <workItem from="1705475420797" duration="2643000" />
+      <workItem from="1705478915642" duration="408000" />
+      <workItem from="1705480058754" duration="590000" />
+      <workItem from="1705593977457" duration="1598000" />
+      <workItem from="1705655632918" duration="283000" />
+      <workItem from="1705997657143" duration="784000" />
+      <workItem from="1706700852474" duration="24424000" />
+      <workItem from="1706771990843" duration="138000" />
+      <workItem from="1706773099634" duration="268000" />
+      <workItem from="1706823393994" duration="2322000" />
+      <workItem from="1706852956565" duration="1841000" />
+      <workItem from="1706854827884" duration="4953000" />
+      <workItem from="1706894434491" duration="598000" />
+      <workItem from="1707982564413" duration="2910000" />
+      <workItem from="1708456326195" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
